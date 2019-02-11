@@ -22,10 +22,10 @@
 7. Wat als **keuze1 gelijk is aan "steen"**? In dat geval: 
     1. als keuze2 gelijk is aan "schaar", dan wint "steen".
     2. als keuze2 gelijk is aan "blad", dan wint "blad".
-8. Wat als *keuze1 gelijk is aan "blad"*? In dat geval:
+8. Wat als **keuze1 gelijk is aan "blad"**? In dat geval:
     1. als keuze2 gelijk is aan "steen", dan wint "blad".
     2. als keuze2 gelijk is aan "schaar", dan wint "schaar".
-9. Wat als *keuze1 gelijk is aan "schaar"*? In dat geval:
+9. Wat als **keuze1 gelijk is aan "schaar"**? In dat geval:
     1. als keuze2 gelijk is aan "steen", dan wint "steen".
     2. als keuze2 gelijk is aan "blad", dan wint "schaar".
 10. Roep de functie op. Maak gebruik van de variabelen keuzeGebruiker en keuzeComputer als argumenten.
