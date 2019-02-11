@@ -1,9 +1,9 @@
 # Oefening 1: Blad –steen –schaar
 ## Algemeen stappenplan. 
 1. Vraag de gebruiker om zijn keuze via een prompt : blad, steen, schaar. 
-2. Laat de computer een random getal genererentussen 0 en 1. Als dit getal <=0.33  dan is de keuze van de computer blad, 0.34<= getal <=0.66 dan steen, anders schaar.
-3. Maak een functie die het resultaat berekent.De functie heeft 2 argumenten : de keuze van de gebruiker en de keuze van de computer. De functie retourneert:
-    - het resultaat is een gelijkspel(als beide hetzelfde zijn)
+2. Laat de computer een random getal genereren tussen 0 en 1. Als dit getal <=0.33  dan is de keuze van de computer blad, 0.34<= getal <=0.66 dan steen, anders schaar.
+3. Maak een functie die het resultaat berekent. De functie heeft 2 argumenten : de keuze van de gebruiker en de keuze van de computer. De functie retourneert:
+    - het resultaat is een gelijkspel (als beide hetzelfde zijn)
     - Steen wint
     - Blad wint
     - Schaar wint
