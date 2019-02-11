@@ -1,4 +1,3 @@
-# 01exJavaScript
 # Oefening 1: Blad –steen –schaar
 ## Algemeen stappenplan. 
 1. Vraag de gebruiker om zijn keuze via een prompt : blad, steen, schaar. 
