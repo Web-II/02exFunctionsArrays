@@ -49,7 +49,7 @@ Als je slaat en de draak niet raakt, ben je zelf verslagen door de draak.
     Er wordt in dat geval een gepaste boodschap naar de console geschreven (de speler versloeg de draak) en de variabele slaying krijgt de waarde false.   
     Als de variabele totalDamage niet groter dan of gelijk is aan 4, dan moet de variabele youHit opnieuw een random waarde van 0 of 1 krijgen.
 
-## Oefening 3: Eendjes
+# Oefening 3: Eendjes
 Eendjes vissen is een gekend spel van op de kermis. De eendjes komen één per één voorbij en de speler kan er een aantal uit vissen. Elk eendje heeft als waarde een geheel getal tussen 1 en 5.  
 
 In deze opgave wordt een variant op het klassieke eendjes vissen beschouwd. De speler ziet op voorhand de waarden van alle eendjes die voorbij komen en moet vier opeenvolgende eendjes selecteren om een zo hoog mogelijke score te behalen.   
@@ -61,7 +61,7 @@ Extra : vraag de gebruiker om  de waarden van 10 opeenvolgende eendje. Plaats de
 
 Tip : geef ook eens een alfanumerische waarde in.
 
-## Oefening 4: Depe pepe taapaal
+# Oefening 4: Depe pepe taapaal
 Op de planeet P spreken de mensen een raar taaltje, namelijk de p-taal.    
 Deze is voor ons niet zo moeilijk te leren.     
 De taal lijkt sterk op het Nederlands, maar elke klinkercombinatie wordt telkens gevolgd door een ‘p’ en gevolgd door een herhaling van diezelfde klinkercombinatie.    
