@@ -64,9 +64,15 @@ Bvb, uit de reeks bestaande uit 10 eendjes met waarden 5, 2, 4, 1, 1, 5, 4, 4, 3
 
 Maak een array met 10 eendjes met de waarden 5, 2, 4, 1, 1, 5, 4, 4, 3, 2 en retourneer de positie van de eerste van 4 opeenvolgende eendjes die samen de hoogste score geven.
 
-**Extra:** vraag de gebruiker om de waarden van 10 opeenvolgende eendjes. Plaats deze in een array en bereken ook kvoor deze array op analoge wijze de startpositie.
+Gebruik een functie om deze positie te berekenen en plaats deze in een module. Zorg ervoor dat je de functie exporteert/importeert op de juiste plaats.
 
-Tip: geef ook eens een alfanumerische waarde in.
+**Tip** Om gebruik te maken van een module zal je _index.html_ ook moeten aanpassen.
+
+## Extra:
+
+Vraag de gebruiker om de waarden van 10 opeenvolgende eendjes. Plaats deze in een array en bereken ook kvoor deze array op analoge wijze de startpositie.
+
+**Tip**: geef ook eens een alfanumerische waarde in.
 
 # Oefening 4: Depe pepe taapaal
 
@@ -80,8 +86,8 @@ Een voorbeeldje:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Als de kat van huis is, dansen de muizen.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apals depe kapat vapan huipuis ipis, dapansepen depe muipuizepen.
 
-Maak een **functie vertaal** die een zin als parameter heeft en de zin omgezet in de P-taal retourneert. Vraag de gebruiker naar een zin, voer de functie uit en alert het resultaat.
+Maak een **functie vertaal in een module** die een zin als parameter heeft en de zin omgezet in de P-taal retourneert. Vraag de gebruiker naar een zin, voer de functie uit en alert het resultaat.
 
-Probeer deze opgave eens op te lossen enkel gebruik makend van strings. Probeer ze ook eens op te lossen gebruik makend van een array van karakters.
+Probeer deze opgave eens op te lossen enkel gebruik makend van strings. Probeer ze ook eens op te lossen gebruik makend van een array van karakters. (Plaats je tweede oplossing in een aparte module)
 
 Extra: ook de combinatie ij mag je als klinker beschouwen.
