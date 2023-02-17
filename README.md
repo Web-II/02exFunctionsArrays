@@ -1,3 +1,7 @@
+# Driloefeningen
+
+Zie opgave in het script bestand
+
 # Oefening 1: Blad – steen – schaar
 
 ## Algemeen stappenplan.
